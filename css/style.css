@@ -10,9 +10,15 @@ body {
     Typorgraphy              
 -----------------------------------------*/
 
+/* #skillsCont {
+  padding-top: 90px;
+} */
+
 #skillsSec {
   margin-top: 50px;
+  margin-bottom: 30px
   align-content: center;
+
 }
 
 #otis {
@@ -377,7 +383,8 @@ a:focus {
 }
 
 #portfolio .text-center {
-  padding-top: 62px;
+  /* padding-top: 62px; */
+  padding-top: 15px;
 }
 
 /*---------------------------------------
